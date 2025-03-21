@@ -1,6 +1,9 @@
 ## Description
 This project focuses on developing an IoT-based smart urometer designed to improve real-time urine level monitoring in hospitals. The device integrates a mobile application for better accessibility and reduces the workload for healthcare professionals.
-![Smart Urometer Prototype](Assets/Final Product.png)
+<p align="center">
+  <img src="Assets/Final%20Product.png" alt="Smart Urometer Prototype" width="200" />
+</p>
+
 ## Features
 - IoT-enabled urine monitoring system
 - Mobile and desktop application integration
@@ -37,6 +40,8 @@ dress the inefficiencies of manual measurements"
 ![Smart Urometer Prototype](Assets/EnclosurePart2.png)
 
 ## Mobile APP
-![Smart Urometer Prototype](Assets/MobileApp.jpg)
+<p align="center">
+  <img src="Assets/MobileApp.jpg" alt="Smart Urometer Prototype" width="200" />
+</p>
 ## License
 This project is licensed under the [MIT License](LICENSE).
