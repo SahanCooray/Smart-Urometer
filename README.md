@@ -1,6 +1,6 @@
 ## Description
 This project focuses on developing an IoT-based smart urometer designed to improve real-time urine level monitoring in hospitals. The device integrates a mobile application for better accessibility and reduces the workload for healthcare professionals.
-
+![Smart Urometer Prototype](Assets/Final Product.png)
 ## Features
 - IoT-enabled urine monitoring system
 - Mobile and desktop application integration
@@ -11,6 +11,7 @@ This project focuses on developing an IoT-based smart urometer designed to impro
 ## Components Used
 - **Microcontroller**: ESP32 WROOM
 - **Load Sensor**: 5Kg load cell
+- **Capacitive Liquid Level Sensor**: XKC-Y25
 - **ADC Module**: HX711
 - **Power Supply**: 9V battery & adapter
 - **Mobile App**: Real-time monitoring and alert system
@@ -22,6 +23,7 @@ ter with mobile app integration in Sri Lankan hospitals to improve
 dress the inefficiencies of manual measurements"
 
 ## Device Details and Methodology
+![Smart Urometer Prototype](Assets/FunctionalBlockDiagram.png)
 
 
 ## How It Works
@@ -30,9 +32,11 @@ dress the inefficiencies of manual measurements"
 3. A mobile application displays real-time volume and triggers alerts when thresholds are breached.
 4. The power supply ensures continuous operation with both adapter and battery backup.
 
-## Project Structure
+## Device Enclosure
+![Smart Urometer Prototype](Assets/EnclosurePart1.png)
+![Smart Urometer Prototype](Assets/EnclosurePart2.png)
 
-## Contributing
-
+## Mobile APP
+![Smart Urometer Prototype](Assets/MobileApp.jpg)
 ## License
 This project is licensed under the [MIT License](LICENSE).
