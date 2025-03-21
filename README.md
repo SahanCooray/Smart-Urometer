@@ -43,5 +43,5 @@ dress the inefficiencies of manual measurements"
 <p align="center">
   <img src="Assets/MobileApp.jpg" alt="Smart Urometer Prototype" width="200" />
 </p>
-## License
-This project is licensed under the [MIT License](LICENSE).
+
+
